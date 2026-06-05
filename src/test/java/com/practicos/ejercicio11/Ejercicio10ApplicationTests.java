@@ -1,4 +1,4 @@
-package com.practicos.ejercicio10;
+package com.practicos.ejercicio11;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

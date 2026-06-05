@@ -1,4 +1,4 @@
-package com.practicos.ejercicio10.models;
+package com.practicos.ejercicio11.models;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
